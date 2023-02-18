@@ -6,7 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-Run the "Flutter doctor" command on your terminal, clear all issues and you are good to go.......
+Install android Studio on our machine, and setup a virtual device of your choice.
+Then Run the "Flutter doctor" command on your terminal, clear all issues and you are good to go.......
 
 A few resources to get you started if this is your first Flutter project:
 
